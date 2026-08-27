@@ -1,0 +1,45 @@
+-- custom 16ch profile for the rig's laser (Amazon B0DPMP5K2N), safe to re-apply after deleting old rows
+DELETE FROM fixture_position_master WHERE mode_id=900001;
+DELETE FROM fixture_channel_master WHERE mode_id=900001;
+DELETE FROM fixture_mode_master WHERE id=900001;
+DELETE FROM fixture_master WHERE id=900001;
+INSERT INTO fixture_master (id, vender_id, fixture_type_id, name, mode_num, data, identifier, part_no) VALUES (900001, 226, 9, 'DJ Laser 16CH (B0DPMP5K2N)', 1, 'Lasers', '201b57f6-969b-4558-8236-5b692d867916', '');
+INSERT INTO fixture_mode_master (id, fixture_id, name, mode, dmx_num, identifier, compo_id, compo_offset, version) VALUES (900001, 900001, '16 Channel', 0, 16, 'e5233845-140e-421f-b723-139374adc145', 0, 0, 3000);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 1, '8Bit', 'Operating Mode', 200, 200);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 2, '8Bit', 'Pattern Selection', 0, 10);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 3, '8Bit', 'Color', 0, 255);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 4, '8Bit', 'Zoom', 127, 127);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 5, '8Bit', 'Horizontal Movement', 127, 127);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 6, '8Bit', 'Vertical Movement', 127, 127);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 7, '8Bit', 'Horizontal Rotation', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 8, '8Bit', 'Vertical Rotation', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 9, '8Bit', 'Rotation Speed', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 10, '8Bit', 'Strobe', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 11, '8Bit', 'Scan Speed', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 12, '8Bit', 'Dynamic Effect', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 13, '8Bit', 'Dynamic Effect Speed', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 14, '8Bit', 'Line Drawing', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 15, '8Bit', 'Reserved', 0, 0);
+INSERT INTO fixture_channel_master (mode_id, ch_num, type, name, default_level, locate_level) VALUES (900001, 16, '8Bit', 'Reserved', 0, 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 1, 'CustomCommand', 0, 49, 0, 0.0, 0.0, 'Sound Active', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 1, 'CustomCommand', 50, 99, 0, 0.0, 0.0, 'Auto Beam', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 1, 'CustomCommand', 100, 149, 0, 0.0, 0.0, 'Auto Animation', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 1, 'CustomCommand', 150, 255, 0, 0.0, 0.0, 'DMX Control', 0);
+-- Pattern + Color are LOOKUP TABLES, not continuous levels. Use SetWheelPosition
+-- (rekordbox holds/hard-steps a wheel selector) so it never ramps between patterns.
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 2, 'SetWheelPosition', 0, 255, 1, 0.0, 0.0, 'Pattern', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 3, 'SetWheelPosition', 0, 0, 2, 0.0, 0.0, 'Off', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 3, 'SetWheelPosition', 1, 255, 2, 0.0, 0.0, 'Color', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 4, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 5, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 6, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 7, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 8, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 9, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 10, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 11, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 12, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 13, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 14, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 15, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);
+INSERT INTO fixture_position_master (mode_id, channel_num, function, start_level, end_level, wheel_index, start_level_position, end_level_position, description, color) VALUES (900001, 16, 'CustomCommand', 0, 255, 0, 0.0, 0.0, '', 0);

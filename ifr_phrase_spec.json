@@ -1,0 +1,22 @@
+{
+ "insert": [
+  {
+   "beat": 65,
+   "kind": 3
+  },
+  {
+   "beat": 129,
+   "kind": 2,
+   "fill": 1,
+   "beat_fill": 176
+  },
+  {
+   "beat": 289,
+   "kind": 2
+  }
+ ],
+ "delete": [
+  157,
+  257
+ ]
+}

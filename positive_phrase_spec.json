@@ -1,0 +1,11 @@
+{
+  "set": [
+    {"beat": 33, "kind": 2, "k1": 0},
+    {"beat": 73, "kind": 2},
+    {"beat": 89, "kind": 2},
+    {"beat": 233, "kind": 3, "fill": 0, "beat_fill": 0}
+  ],
+  "insert": [
+    {"beat": 273, "kind": 2, "fill": 1, "beat_fill": 301}
+  ]
+}

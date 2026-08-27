@@ -1,0 +1,194 @@
+{
+ "1A": {
+  "COOL": 2.906,
+  "HOT": 4.708,
+  "NATURAL": 1.509,
+  "WARM": 0.311,
+  "VIVID": 0.283,
+  "SUBTLE": 2.283
+ },
+ "1B": {
+  "WARM": 0.726,
+  "VIVID": 1.726,
+  "SUBTLE": 0.581,
+  "COOL": 0.435,
+  "NATURAL": 2.387,
+  "HOT": 0.145
+ },
+ "2A": {
+  "COOL": 3.906,
+  "HOT": 2.708,
+  "NATURAL": 0.509,
+  "WARM": 0.311,
+  "VIVID": 0.283,
+  "SUBTLE": 0.283
+ },
+ "2B": {
+  "WARM": 2.726,
+  "VIVID": 1.726,
+  "SUBTLE": 1.581,
+  "COOL": 2.435,
+  "NATURAL": 0.387,
+  "HOT": 0.145
+ },
+ "3A": {
+  "COOL": 1.906,
+  "HOT": 3.708,
+  "NATURAL": 0.509,
+  "WARM": 4.311,
+  "VIVID": 0.283,
+  "SUBTLE": 0.283
+ },
+ "3B": {
+  "WARM": 1.726,
+  "VIVID": 2.726,
+  "SUBTLE": 0.581,
+  "COOL": 1.435,
+  "NATURAL": 1.387,
+  "HOT": 0.145
+ },
+ "4A": {
+  "COOL": 1.906,
+  "HOT": 1.708,
+  "NATURAL": 3.509,
+  "WARM": 0.311,
+  "VIVID": 2.283,
+  "SUBTLE": 2.283
+ },
+ "4B": {
+  "WARM": 2.726,
+  "VIVID": 1.726,
+  "SUBTLE": 3.581,
+  "COOL": 0.435,
+  "NATURAL": 0.387,
+  "HOT": 0.145
+ },
+ "5A": {
+  "COOL": 4.906,
+  "HOT": 1.708,
+  "NATURAL": 4.509,
+  "WARM": 0.311,
+  "VIVID": 1.283,
+  "SUBTLE": 0.283
+ },
+ "5B": {
+  "WARM": 1.726,
+  "VIVID": 1.726,
+  "SUBTLE": 0.581,
+  "COOL": 1.435,
+  "NATURAL": 0.387,
+  "HOT": 1.145
+ },
+ "6A": {
+  "COOL": 2.906,
+  "HOT": 2.708,
+  "NATURAL": 3.509,
+  "WARM": 0.311,
+  "VIVID": 1.283,
+  "SUBTLE": 0.283
+ },
+ "6B": {
+  "WARM": 1.726,
+  "VIVID": 1.726,
+  "SUBTLE": 1.581,
+  "COOL": 1.435,
+  "NATURAL": 0.387,
+  "HOT": 1.145
+ },
+ "7A": {
+  "COOL": 3.906,
+  "HOT": 1.708,
+  "NATURAL": 0.509,
+  "WARM": 1.311,
+  "VIVID": 2.283,
+  "SUBTLE": 1.283
+ },
+ "7B": {
+  "WARM": 3.726,
+  "VIVID": 1.726,
+  "SUBTLE": 0.581,
+  "COOL": 0.435,
+  "NATURAL": 0.387,
+  "HOT": 0.145
+ },
+ "8A": {
+  "COOL": 4.906,
+  "HOT": 3.708,
+  "NATURAL": 0.509,
+  "WARM": 2.311,
+  "VIVID": 0.283,
+  "SUBTLE": 2.283
+ },
+ "8B": {
+  "WARM": 2.726,
+  "VIVID": 3.726,
+  "SUBTLE": 0.581,
+  "COOL": 1.435,
+  "NATURAL": 0.387,
+  "HOT": 1.145
+ },
+ "9A": {
+  "COOL": 1.906,
+  "HOT": 3.708,
+  "NATURAL": 0.509,
+  "WARM": 0.311,
+  "VIVID": 0.283,
+  "SUBTLE": 2.283
+ },
+ "9B": {
+  "WARM": 0.726,
+  "VIVID": 1.726,
+  "SUBTLE": 0.581,
+  "COOL": 0.435,
+  "NATURAL": 0.387,
+  "HOT": 0.145
+ },
+ "10A": {
+  "COOL": 3.906,
+  "HOT": 3.708,
+  "NATURAL": 1.509,
+  "WARM": 3.311,
+  "VIVID": 0.283,
+  "SUBTLE": 1.283
+ },
+ "10B": {
+  "WARM": 0.726,
+  "VIVID": 0.726,
+  "SUBTLE": 3.581,
+  "COOL": 1.435,
+  "NATURAL": 1.387,
+  "HOT": 0.145
+ },
+ "11A": {
+  "COOL": 1.906,
+  "HOT": 0.708,
+  "NATURAL": 3.509,
+  "WARM": 0.311,
+  "VIVID": 2.283,
+  "SUBTLE": 0.283
+ },
+ "11B": {
+  "WARM": 1.726,
+  "VIVID": 1.726,
+  "SUBTLE": 2.581,
+  "COOL": 0.435,
+  "NATURAL": 2.387,
+  "HOT": 0.145
+ },
+ "12A": {
+  "COOL": 3.906,
+  "HOT": 1.708,
+  "NATURAL": 3.509,
+  "WARM": 1.311,
+  "VIVID": 2.283,
+  "SUBTLE": 0.283
+ },
+ "12B": {
+  "WARM": 2.726,
+  "VIVID": 1.726,
+  "SUBTLE": 2.581,
+  "COOL": 2.435,
+  "NATURAL": 2.387,
+  "HOT": 0.145
+ }
+}

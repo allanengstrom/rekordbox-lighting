@@ -1,0 +1,24 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.pkl
+.DS_Store
+backups/
+allin1_cache/
+sc_profile/
+rollback_engine.sql
+
+# local working dirs
+logs/
+debug/
+
+# generated outputs and caches
+virtual_rig.html
+virtual_rig_local.html
+virtual_rig_data.json
+energy_scores.json
+drop_contrast_cache.json
+drop_profiles.json
+allin1_imgood.json
+pending_choices.json

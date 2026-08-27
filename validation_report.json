@@ -1,0 +1,1300 @@
+[
+ {
+  "title": "Rich Baby Daddy - M\u00d8DAY EDIT",
+  "content_id": 1002,
+  "n_phrases": 17,
+  "rb_agree": 3,
+  "ai_agree": 12,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.4,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 2,
+    "t0": 7.1,
+    "rb": "UP",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 3,
+    "t0": 28.4,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 4,
+    "t0": 56.9,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 5,
+    "t0": 71.1,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 6,
+    "t0": 85.3,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 7,
+    "t0": 99.6,
+    "rb": null,
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 8,
+    "t0": 113.8,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 9,
+    "t0": 128.0,
+    "rb": null,
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 10,
+    "t0": 142.2,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 11,
+    "t0": 177.8,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 12,
+    "t0": 199.1,
+    "rb": "CHORUS",
+    "allan": "DOWN",
+    "ai": "DOWN"
+   },
+   {
+    "phrase": 13,
+    "t0": 206.2,
+    "rb": null,
+    "allan": "UP",
+    "ai": "DOWN"
+   },
+   {
+    "phrase": 14,
+    "t0": 213.3,
+    "rb": "UP",
+    "allan": "INTRO",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 15,
+    "t0": 227.6,
+    "rb": "UP",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 16,
+    "t0": 256.0,
+    "rb": "UP",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 17,
+    "t0": 284.4,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "Ke$ha - Take It Off (XanTz Remix)",
+  "content_id": 774,
+  "n_phrases": 16,
+  "rb_agree": 1,
+  "ai_agree": 10,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.0,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 2,
+    "t0": 15.4,
+    "rb": null,
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 3,
+    "t0": 30.8,
+    "rb": "UP",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 4,
+    "t0": 46.1,
+    "rb": "DOWN",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 5,
+    "t0": 61.5,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 6,
+    "t0": 92.2,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 7,
+    "t0": 107.6,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "DOWN"
+   },
+   {
+    "phrase": 8,
+    "t0": 122.9,
+    "rb": null,
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 9,
+    "t0": 138.3,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 10,
+    "t0": 169.0,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "DOWN"
+   },
+   {
+    "phrase": 11,
+    "t0": 184.4,
+    "rb": null,
+    "allan": "UP",
+    "ai": "DOWN"
+   },
+   {
+    "phrase": 12,
+    "t0": 199.2,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 13,
+    "t0": 213.2,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 14,
+    "t0": 228.5,
+    "rb": null,
+    "allan": "INTRO",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 15,
+    "t0": 243.9,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 16,
+    "t0": 245.8,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "I'm Good (Blue) - Cheyenne Giles Remix (Dirty)",
+  "content_id": 238,
+  "n_phrases": 13,
+  "rb_agree": 2,
+  "ai_agree": 8,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.1,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 2,
+    "t0": 16.2,
+    "rb": "INTRO",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 3,
+    "t0": 31.3,
+    "rb": null,
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 4,
+    "t0": 46.4,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 6,
+    "t0": 50.2,
+    "rb": "UP",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 7,
+    "t0": 61.5,
+    "rb": "UP",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 8,
+    "t0": 76.6,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "DOWN"
+   },
+   {
+    "phrase": 9,
+    "t0": 91.8,
+    "rb": null,
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 10,
+    "t0": 122.0,
+    "rb": null,
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 11,
+    "t0": 137.1,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 12,
+    "t0": 140.9,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 13,
+    "t0": 152.2,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 14,
+    "t0": 167.4,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "Waka Flocka Flame - Grove St. Party (Olive Oil Remix)",
+  "content_id": 903,
+  "n_phrases": 5,
+  "rb_agree": 0,
+  "ai_agree": 3,
+  "detail": [
+   {
+    "phrase": 4,
+    "t0": 45.7,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 5,
+    "t0": 61.0,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 10,
+    "t0": 123.8,
+    "rb": "CHORUS",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 11,
+    "t0": 129.5,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 13,
+    "t0": 175.2,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "Lady Gaga - Bloody Mary (Sunday Scaries Remix)",
+  "content_id": 988,
+  "n_phrases": 13,
+  "rb_agree": 2,
+  "ai_agree": 7,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.5,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 2,
+    "t0": 15.2,
+    "rb": "UP",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 3,
+    "t0": 30.5,
+    "rb": null,
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 4,
+    "t0": 45.7,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 5,
+    "t0": 49.5,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 6,
+    "t0": 61.0,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 7,
+    "t0": 76.2,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 8,
+    "t0": 91.4,
+    "rb": null,
+    "allan": "INTRO",
+    "ai": "UP"
+   },
+   {
+    "phrase": 9,
+    "t0": 106.7,
+    "rb": null,
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 10,
+    "t0": 121.9,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 11,
+    "t0": 125.7,
+    "rb": null,
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 12,
+    "t0": 152.4,
+    "rb": null,
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   },
+   {
+    "phrase": 13,
+    "t0": 167.6,
+    "rb": null,
+    "allan": "OUTRO",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "Lights (Dario Valli Remix)",
+  "content_id": 461,
+  "n_phrases": 18,
+  "rb_agree": 18,
+  "ai_agree": 7,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.1,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 2,
+    "t0": 14.8,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 3,
+    "t0": 29.6,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 4,
+    "t0": 44.4,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 5,
+    "t0": 59.1,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 6,
+    "t0": 73.9,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 7,
+    "t0": 86.8,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 8,
+    "t0": 88.7,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 9,
+    "t0": 103.4,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 10,
+    "t0": 118.2,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "UP"
+   },
+   {
+    "phrase": 11,
+    "t0": 133.0,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 12,
+    "t0": 147.7,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 14,
+    "t0": 177.3,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 15,
+    "t0": 192.1,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 17,
+    "t0": 203.1,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 18,
+    "t0": 217.9,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 19,
+    "t0": 232.7,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 20,
+    "t0": 247.4,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "Rihanna - Disturbia (Sean Westley Extended Remix)",
+  "content_id": 554,
+  "n_phrases": 12,
+  "rb_agree": 10,
+  "ai_agree": 7,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.0,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 2,
+    "t0": 15.4,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 4,
+    "t0": 46.1,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 5,
+    "t0": 61.4,
+    "rb": "CHORUS",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 6,
+    "t0": 76.8,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 7,
+    "t0": 92.2,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 8,
+    "t0": 107.5,
+    "rb": "UP",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 9,
+    "t0": 122.9,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 10,
+    "t0": 138.2,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 11,
+    "t0": 153.6,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 12,
+    "t0": 169.0,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 13,
+    "t0": 184.3,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "WE FOUND LOVE (LEONDSIS 2024 REMIX EXTENDED)",
+  "content_id": 646,
+  "n_phrases": 18,
+  "rb_agree": 15,
+  "ai_agree": 8,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.0,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 2,
+    "t0": 3.8,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 3,
+    "t0": 15.0,
+    "rb": "UP",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 4,
+    "t0": 30.0,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 5,
+    "t0": 45.0,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 6,
+    "t0": 60.5,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 7,
+    "t0": 73.1,
+    "rb": "UP",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 8,
+    "t0": 75.0,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 9,
+    "t0": 90.0,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 10,
+    "t0": 105.0,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 11,
+    "t0": 108.8,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 12,
+    "t0": 123.3,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 13,
+    "t0": 138.8,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 14,
+    "t0": 153.8,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 15,
+    "t0": 168.8,
+    "rb": "UP",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 16,
+    "t0": 172.5,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 17,
+    "t0": 183.8,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 18,
+    "t0": 198.8,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "BULLETPROOF - [FAT TONY & MEDUN REMIX]",
+  "content_id": 647,
+  "n_phrases": 11,
+  "rb_agree": 10,
+  "ai_agree": 4,
+  "detail": [
+   {
+    "phrase": 2,
+    "t0": 15.5,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 3,
+    "t0": 30.5,
+    "rb": "INTRO",
+    "allan": "DOWN",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 6,
+    "t0": 66.1,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 7,
+    "t0": 68.0,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 8,
+    "t0": 71.7,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "UP"
+   },
+   {
+    "phrase": 9,
+    "t0": 83.0,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 10,
+    "t0": 98.0,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 13,
+    "t0": 141.1,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 14,
+    "t0": 143.0,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 15,
+    "t0": 158.0,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 16,
+    "t0": 173.0,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "Summertime Sadness (Cedric Gervais Remix)",
+  "content_id": 539,
+  "n_phrases": 19,
+  "rb_agree": 19,
+  "ai_agree": 9,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.1,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "UP"
+   },
+   {
+    "phrase": 2,
+    "t0": 30.6,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 3,
+    "t0": 61.0,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 4,
+    "t0": 76.3,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 6,
+    "t0": 122.0,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 7,
+    "t0": 137.2,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 8,
+    "t0": 150.6,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 9,
+    "t0": 152.5,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 10,
+    "t0": 167.7,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 11,
+    "t0": 182.9,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 12,
+    "t0": 198.2,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 13,
+    "t0": 228.7,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 15,
+    "t0": 259.1,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 16,
+    "t0": 274.4,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 17,
+    "t0": 289.6,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 18,
+    "t0": 304.8,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 19,
+    "t0": 320.1,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 20,
+    "t0": 350.6,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   },
+   {
+    "phrase": 21,
+    "t0": 381.0,
+    "rb": "OUTRO",
+    "allan": "OUTRO",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "S&M (JORDAN DAE REMIX) master",
+  "content_id": 630,
+  "n_phrases": 18,
+  "rb_agree": 17,
+  "ai_agree": 11,
+  "detail": [
+   {
+    "phrase": 1,
+    "t0": 0.1,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 2,
+    "t0": 15.1,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 3,
+    "t0": 30.1,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 4,
+    "t0": 43.2,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "INTRO"
+   },
+   {
+    "phrase": 5,
+    "t0": 44.6,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 6,
+    "t0": 59.6,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "UP"
+   },
+   {
+    "phrase": 7,
+    "t0": 75.1,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 8,
+    "t0": 90.1,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 9,
+    "t0": 103.2,
+    "rb": "CHORUS",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 10,
+    "t0": 104.6,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 11,
+    "t0": 108.9,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 12,
+    "t0": 119.6,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 13,
+    "t0": 135.1,
+    "rb": "INTRO",
+    "allan": "INTRO",
+    "ai": "UP"
+   },
+   {
+    "phrase": 14,
+    "t0": 150.1,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "UP"
+   },
+   {
+    "phrase": 15,
+    "t0": 164.6,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 16,
+    "t0": 179.6,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 17,
+    "t0": 194.6,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "OUTRO"
+   },
+   {
+    "phrase": 18,
+    "t0": 209.6,
+    "rb": "OUTRO",
+    "allan": "OUTRO",
+    "ai": "OUTRO"
+   }
+  ]
+ },
+ {
+  "title": "Down (Martin Remix)",
+  "content_id": 668,
+  "n_phrases": 10,
+  "rb_agree": 9,
+  "ai_agree": 5,
+  "detail": [
+   {
+    "phrase": 5,
+    "t0": 58.2,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 7,
+    "t0": 87.3,
+    "rb": "CHORUS",
+    "allan": "DOWN",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 8,
+    "t0": 90.9,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 9,
+    "t0": 101.8,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 10,
+    "t0": 116.4,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "UP"
+   },
+   {
+    "phrase": 12,
+    "t0": 145.5,
+    "rb": "UP",
+    "allan": "UP",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 13,
+    "t0": 174.5,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 14,
+    "t0": 189.1,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 15,
+    "t0": 203.6,
+    "rb": "CHORUS",
+    "allan": "CHORUS",
+    "ai": "CHORUS"
+   },
+   {
+    "phrase": 16,
+    "t0": 218.2,
+    "rb": "DOWN",
+    "allan": "DOWN",
+    "ai": "OUTRO"
+   }
+  ]
+ }
+]

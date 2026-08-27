@@ -1,0 +1,11 @@
+UPDATE content SET macro_pattern_id=1 WHERE id=2;
+UPDATE phrase_data SET macro_id=7 WHERE content_id=2 AND phrase_num=1;
+UPDATE phrase_data SET macro_id=25 WHERE content_id=2 AND phrase_num=2;
+UPDATE phrase_data SET macro_id=31 WHERE content_id=2 AND phrase_num=3;
+UPDATE phrase_data SET macro_id=43 WHERE content_id=2 AND phrase_num=4;
+UPDATE phrase_data SET macro_id=25 WHERE content_id=2 AND phrase_num=5;
+UPDATE phrase_data SET macro_id=31 WHERE content_id=2 AND phrase_num=6;
+UPDATE phrase_data SET macro_id=31 WHERE content_id=2 AND phrase_num=7;
+UPDATE phrase_data SET macro_id=31 WHERE content_id=2 AND phrase_num=8;
+UPDATE phrase_data SET macro_id=31 WHERE content_id=2 AND phrase_num=9;
+UPDATE phrase_data SET macro_id=55 WHERE content_id=2 AND phrase_num=10;
