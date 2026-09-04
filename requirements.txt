@@ -1,0 +1,7 @@
+# Versions from the working environment (Python 3.9). allin1 pulls PyTorch —
+# expect a large install; it is only needed for analyze_batch.py.
+allin1==1.1.0
+imageio-ffmpeg==0.6.0
+librosa==0.11.0
+numpy==1.26.4
+pyrekordbox==0.4.4

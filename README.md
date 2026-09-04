@@ -16,7 +16,7 @@ Listens to DJ tracks and designs their light shows automatically: it labels each
 
 macOS only — the write target is `~/Library/Application Support/Pioneer/rekordbox6/LightingDB/`. Requires Python 3.9+, `allin1`, `librosa`, `numpy`, and `pyrekordbox`.
 
-Typical flow: analyze tracks (`analyze_batch.py`), then assign lighting for one or more tracks by Rekordbox content id (`assign_lighting.py <content_id> ...`), or re-run the whole library with `reassign_scenes.py`. `preview_assign.py` shows what would be written without writing it.
+Typical flow: analyze tracks (`analyze_batch.py`), then assign lighting for one or more tracks by Rekordbox content id (`assign_lighting.py <content_id> ...`), or re-run the whole library with `reassign_scenes.py`. `preview_assign.py` shows what would be written without writing it. `fix_derby.py` is a post-pass for a hardware quirk: a derby unit whose LEDs ignore the master dimmer, so dark scenes still lit it until their color blocks are clipped to the brightness envelope.
 
 ## Safety
 
